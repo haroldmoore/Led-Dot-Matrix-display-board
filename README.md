@@ -49,13 +49,12 @@ UPDATE!  finished this --> https://www.youtube.com/watch?v=-7r4fw7NPG0
 code wise, maybe the next most importat thing is to get the master/slave I2C bus working
 with only the 5x7 display boards amoung them selves, as it is now another arduino, nano, uno, etc.
 is needed to control the display boards.
-UPDATE!  finished this --> https://www.youtube.com/watch?v=Ae_bE8gQ3Go
 
 Next would be the code as it is now, is just a simplistic MEMORY HOG! but the quickest thing
 I could come up with, and the ATTINY3226 has not complained yet, but could use MUCH clean-up.
 UPDATE! found some code here on github that has saved me alot of memory, and showed me the
-correct way to do things, check out the scolling code above.
----->> https://www.youtube.com/watch?v=UD9fzUgC7BU
+correct way to do things.
+
 
 Next the characters that the ATTINY3226 can load, so far just upper-case characters and numbers
 have been written up in the 'muliplex.h' 5x7 character file. (`~!@#$%^&*()_+-={}[];:'",<.>/?)
