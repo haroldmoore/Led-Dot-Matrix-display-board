@@ -1,7 +1,6 @@
 # Led-Dot-Matrix-display-board
 Example Arduino code for the Led Dot Matrix Display Board using the ATTINY3226 and the LTP-305HR
--------scrolling code showing my ham radio call sign------------->
-![KE6JMG](https://user-images.githubusercontent.com/91569879/156788258-2a549de1-0609-4011-9f84-bb2f4b23b346.gif)
+
 
 ![top](https://user-images.githubusercontent.com/91569879/156788286-8e4e96b9-b188-4252-a2c0-5b66f20cc382.jpg)
 ![bottom](https://user-images.githubusercontent.com/91569879/156788304-4aa12932-4c2d-40f6-a77a-2e2351574622.jpg)
