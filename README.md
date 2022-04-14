@@ -61,4 +61,5 @@ and lower case lettering needs to be added, and without code clean up this may n
 
 Hardware wise the gerber files using the VQFN 3mm package of the ATTINY3226 need to be sent out,
 I've not done this as yet, this makes the board size smaller still, and much more "fittable" into
-new/old equipment designs/re-designs. 
+new/old equipment designs/re-designs. A small video ----> https://youtu.be/sF_6io8nx4A
+
